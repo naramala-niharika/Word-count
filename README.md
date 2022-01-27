@@ -30,8 +30,8 @@ print("Number of words = ",num_of_words)
 ```
 
 ### OUTPUT:
-![output](./n1.PNG)
-![output0](./n2.PNG)
+![output](https://github.com/naramala-niharika/Word-count/blob/main/n1.png?raw=true)
+![output](https://github.com/naramala-niharika/Word-count/blob/main/n2.png?raw=true)
 
 
 ## RESULT:
