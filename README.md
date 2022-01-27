@@ -30,8 +30,8 @@ print("Number of words = ",num_of_words)
 ```
 
 ### OUTPUT:
-![output](./1.JPG)
-![output0](./0.JPG)
+![output](./n1.PNG)
+![output0](./n2.PNG)
 
 
 ## RESULT:
